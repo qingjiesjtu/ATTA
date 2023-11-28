@@ -2,6 +2,8 @@
 
 This is the code for paper *ATTA: Adversarial Task-transferable Attacks on Autonomous Driving Systems*, accepted by IEEE ICDM 2023.
 
+This directory does not contain datasets and DNN models' weights due to their large size.
+
 ## Overview of ATTA
 > ABSTRACT: Deep learning (DL) based perception models have
 enabled the possibility of current autonomous driving systems
